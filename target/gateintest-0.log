@@ -1,0 +1,14 @@
+[16:33:15-280][INFO] IOCPracticeTest Running unit test:testListener 
+[16:33:15-376][INFO] RootContainer Building root container 
+[16:33:15-501][INFO] RootContainer Active profiles [hsqldb, standalone] 
+[16:33:15-507][INFO] AbstractGateInTest About to load root configuration 
+[16:33:15-508][INFO] AbstractGateInTest Want to load for resource named conf/root-configuration.xml the urls [jar:file:/home/binhnv/java/exo-dependencies/repository/org/exoplatform/portal/exo.portal.component.test.core/3.2.5-PLF-SNAPSHOT/exo.portal.component.test.core-3.2.5-PLF-SNAPSHOT.jar!/conf/root-configuration.xml] 
+[16:33:15-622][INFO] RootContainer Root container is built (build time 244ms) 
+[16:33:15-623][INFO] ExoContainerContext Set the top container in its context 
+[16:33:15-624][INFO] RootContainer Root container booted 
+[16:33:15-643][INFO] AbstractGateInTest About to load portal configuration 
+[16:33:15-644][INFO] AbstractGateInTest Want to load for resource named conf/portal-configuration.xml the urls [jar:file:/home/binhnv/java/exo-dependencies/repository/org/exoplatform/portal/exo.portal.component.test.core/3.2.5-PLF-SNAPSHOT/exo.portal.component.test.core-3.2.5-PLF-SNAPSHOT.jar!/conf/portal-configuration.xml] 
+[16:33:15-645][INFO] AbstractGateInTest Want to load for resource named conf/iocpractice-configuration.xml the urls [file:/home/binhnv/java/workspace/ioc-test/target/test-classes/conf/iocpractice-configuration.xml] 
+[16:33:15-678][INFO] IOCPracticeTest Unit test testListener completed 
+[16:33:15-680][INFO] ExoContainerContext Set the top container in its context 
+[16:33:15-682][INFO] ExoContainerContext Set the top container in its context 
